@@ -14,7 +14,7 @@ Flutter Developer with 2 years of experience in mobile app development on Window
     <a href="https://www.linkedin.com/in/naluswa-william-b55391245?trk=contact-info">
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="[Your Upwork Profile URL]">
+    <a href="https://www.upwork.com/freelancers/~01760cc781d85b570b">
         <img alt="Upwork" title="Hire me on Upwork" src="https://custom-icon-badges.demolab.com/badge/-Upwork-green?style=for-the-badge&logo=upwork&logoColor=white"/>
     </a>
     <a href="mailto:[Your Email]">
