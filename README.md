@@ -1,12 +1,13 @@
 # 🏄‍♂️ Naluswa William
 
-**`Flutter Developer | Backend Developer`**
+**`Fullstack Developer`**
 
-Flutter Developer with 2 years of experience in mobile app development on Windows. Proficient in Dart, Flutter, and cross-platform development. Skilled in backend development with Node.js, JavaScript, Express.js, and MongoDB. Familiar with RESTful APIs, Git, CI/CD, and Agile. Continuously learning new technologies to deliver scalable solutions. Passionate about seamless user experiences and the full development lifecycle.
+Mid-Level Full Stack Developer with expertise in designing and delivering end-to-end solutions for complex web and mobile applications. Skilled in crafting responsive front ends using React and Flutter, and building scalable, efficient backend systems with Express.js and Nest.js. Experienced in optimizing data management with MongoDB and PostgreSQL, with a strong focus on secure, user-centric applications that drive engagement and business success
+
 
 **Technical Skills:**
-- **Frontend:** Flutter, Dart, Mobile UI/UX , HTML , CSS
-- **Backend:** Node.js, Express.js, MongoDB, JavaScript (ES6+), PostgresSql
+- **Frontend:** Flutter, Dart, Mobile UI/UX , HTML , CSS, React
+- **Backend:** Node.js, Express.js, MongoDB, JavaScript (ES6+), PostgresSql , Nest.js
 - **Tools:** Windows, Git, GitHub, CI/CD, Agile, VS Code, Postman
 - **Additional:** Firebase, GraphQL, Docker, AWS, SQL, TypeScript
 
